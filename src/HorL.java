@@ -8,6 +8,8 @@ public class HorL {
 		boolean win = true;
 		Random rnd = new Random();
 		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("HIGH OR LOW GAME!!!");
 	}
 
 }
